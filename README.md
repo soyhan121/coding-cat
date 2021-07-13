@@ -1,5 +1,6 @@
 # coding + cat
 
-코딩고양이 사이트 짱짱
-수정사항 push
-push reretry
+코딩고양이 사이트 짱 gui 써보기
+
+## 기능 목록
+1. 코딩배우기
